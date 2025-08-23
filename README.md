@@ -1,4 +1,4 @@
-## Practice for making Animation and graphics with HTML Canvas, Java Script, CSS.
+### Practice for making Animation and graphics with HTML Canvas, Java Script, CSS.
 
 ## Wave
 followed [tutorial of Jongmin Kim](https://www.youtube.com/watch?v=LLfhY4eVwDY&t=71s)
